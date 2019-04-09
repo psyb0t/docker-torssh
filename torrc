@@ -1,0 +1,3 @@
+Log notice stderr
+SOCKSPort 127.0.0.1:9050
+ExitRelay 0
