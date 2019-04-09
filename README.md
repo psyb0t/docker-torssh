@@ -1,4 +1,4 @@
-# docker-tor-ssh
+# docker-torssh
 
 Connect to TOR SSH hidden services from a docker container.
 
